@@ -19,17 +19,17 @@ require (
 	github.com/google/go-cmp v0.6.0
 	github.com/kylelemons/godebug v1.1.0
 	github.com/mitchellh/hashstructure v1.1.0
-	github.com/oklog/run v1.1.0
-	github.com/prometheus-community/prom-label-proxy v0.11.0
 	github.com/nholuongut/prometheus-operator/pkg/apis/monitoring v0.78.0
 	github.com/nholuongut/prometheus-operator/pkg/client v0.78.0
+	github.com/oklog/run v1.1.0
+	github.com/prometheus-community/prom-label-proxy v0.11.0
 	github.com/prometheus/alertmanager v0.27.0
 	github.com/prometheus/client_golang v1.20.5
 	github.com/prometheus/common v0.60.1
 	github.com/prometheus/exporter-toolkit v0.13.1
 	github.com/prometheus/prometheus v0.55.0
 	github.com/stretchr/testify v1.9.0
-	github.com/thanos-io/thanos v0.0.0-20240702084127-fcc88c028acc
+	github.com/thanos-io/thanos v0.36.1
 	go.uber.org/automaxprocs v1.6.0
 	golang.org/x/exp v0.0.0-20240909161429-701f63a606c0
 	golang.org/x/net v0.30.0
