@@ -32,7 +32,7 @@ require (
 	github.com/thanos-io/thanos v0.38.0
 	go.uber.org/automaxprocs v1.6.0
 	golang.org/x/exp v0.0.0-20250106191152-7588d65b2ba8
-	golang.org/x/net v0.40.0
+	golang.org/x/net v0.41.0
 	golang.org/x/sync v0.15.0
 	google.golang.org/protobuf v1.36.6
 	gopkg.in/yaml.v2 v2.4.0
@@ -120,11 +120,11 @@ require (
 	go.opentelemetry.io/otel/metric v1.35.0 // indirect
 	go.opentelemetry.io/otel/trace v1.35.0 // indirect
 	go.uber.org/atomic v1.11.0 // indirect
-	golang.org/x/crypto v0.38.0 // indirect
+	golang.org/x/crypto v0.39.0 // indirect
 	golang.org/x/oauth2 v0.30.0 // indirect
 	golang.org/x/sys v0.33.0 // indirect
 	golang.org/x/term v0.32.0 // indirect
-	golang.org/x/text v0.25.0 // indirect
+	golang.org/x/text v0.26.0 // indirect
 	golang.org/x/time v0.11.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
