@@ -22,7 +22,7 @@ require (
 	github.com/nholuongut/prometheus-operator/pkg/apis/monitoring v0.78.0
 	github.com/nholuongut/prometheus-operator/pkg/client v0.78.0
 	github.com/oklog/run v1.2.0
-	github.com/prometheus-community/prom-label-proxy v0.11.1
+	github.com/prometheus-community/prom-label-proxy v0.12.0
 	github.com/prometheus/alertmanager v0.28.1
 	github.com/prometheus/client_golang v1.23.0
 	github.com/prometheus/common v0.65.0
