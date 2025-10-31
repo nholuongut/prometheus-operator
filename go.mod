@@ -25,7 +25,7 @@ require (
 	github.com/prometheus/client_golang v1.23.2
 	github.com/prometheus/common v0.67.2
 	github.com/prometheus/exporter-toolkit v0.15.0
-	github.com/prometheus/prometheus v0.307.2
+	github.com/prometheus/prometheus v0.307.3
 	github.com/stretchr/testify v1.11.1
 	github.com/thanos-io/thanos v0.40.1
 	go.uber.org/automaxprocs v1.6.0
