@@ -32,7 +32,7 @@ require (
 	golang.org/x/exp v0.0.0-20250808145144-a408d31f581a
 	golang.org/x/net v0.48.0
 	golang.org/x/sync v0.19.0
-	google.golang.org/protobuf v1.36.10
+	google.golang.org/protobuf v1.36.11
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.34.3
 	k8s.io/apiextensions-apiserver v0.34.3
