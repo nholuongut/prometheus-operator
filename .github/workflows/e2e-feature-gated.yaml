@@ -22,7 +22,7 @@ jobs:
     if: ${{ needs.changed-files.outputs.non-markdown-files }}
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v5
     - name: Import environment variables from file
       run: |
         cat ".github/env" >> $GITHUB_ENV
