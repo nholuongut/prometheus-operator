@@ -23,7 +23,7 @@ require (
 	github.com/prometheus-community/prom-label-proxy v0.14.0
 	github.com/prometheus/alertmanager v0.33.1
 	github.com/prometheus/client_golang v1.24.0
-	github.com/prometheus/common v0.70.0
+	github.com/prometheus/common v0.70.1
 	github.com/prometheus/exporter-toolkit v0.17.1
 	github.com/prometheus/prometheus v0.313.1
 	github.com/stretchr/testify v1.11.1
