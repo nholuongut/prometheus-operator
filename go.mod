@@ -21,7 +21,7 @@ require (
 	github.com/nholuongut/prometheus-operator/pkg/client v0.78.0
 	github.com/oklog/run v1.2.0
 	github.com/prometheus-community/prom-label-proxy v0.15.0
-	github.com/prometheus/alertmanager v0.34.0
+	github.com/prometheus/alertmanager v0.34.1
 	github.com/prometheus/client_golang v1.24.1
 	github.com/prometheus/common v0.71.0
 	github.com/prometheus/exporter-toolkit v0.19.0
@@ -125,7 +125,7 @@ require (
 	golang.org/x/tools v0.49.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20260724162435-b2f20204f0df // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260720155508-bb71a54f79dc // indirect
-	google.golang.org/grpc v1.82.1 // indirect
+	google.golang.org/grpc v1.83.1 // indirect
 	gopkg.in/evanphx/json-patch.v4 v4.13.0 // indirect
 	gopkg.in/telebot.v3 v3.3.8 // indirect
 	k8s.io/streaming v0.37.0 // indirect
