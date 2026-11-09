@@ -1,6 +1,6 @@
 module github.com/nholuongut/prometheus-operator
 
-go 1.26.7
+go 1.26.10
 
 require (
 	github.com/KimMachineGun/automemlimit v1.0.0
@@ -27,7 +27,7 @@ require (
 	github.com/prometheus/exporter-toolkit v0.20.0
 	github.com/prometheus/prometheus v0.316.0
 	github.com/stretchr/testify v1.12.1
-	github.com/thanos-io/thanos v0.42.4
+	github.com/thanos-io/thanos v0.42.5
 	go.uber.org/automaxprocs v1.6.0
 	golang.org/x/exp v0.0.0-20261014143641-f0251eb4aa3e
 	golang.org/x/net v0.62.0
